@@ -8,3 +8,5 @@ get init
 git add README.md
 
 git commit -m "my commit message"
+
+hello tman
