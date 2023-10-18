@@ -1,16 +1,14 @@
 # This is my first GIT Repository
 for MDIA 3292
 
-##Today we went over:
+Name:
+Alexander Tan
 
-get init
+School:
+BCIT
 
-git add README.md
+Birthday:
+06/26/04
 
-git commit -m "my commit message"
-
-hello tman
-
-helooo
-
-poooooooooo
+Date:
+10/18/23
